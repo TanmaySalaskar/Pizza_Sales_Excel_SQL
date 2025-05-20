@@ -3,7 +3,7 @@ SALES REPORT OF PIZZAS USING EXCEL PIVOT TABLE, CHARTS AND SQL
 2. pizza_sales.csv - This file contains our sales data. I have reduced some data from this file to save time while importing this data into mysql
 3. pizza_sales_excel.xlsx - This file contains all the data, pivot table, pivot charts, dashboards everything required for data analysis and data visualization
 
-Excel Dashboard
+Excel Dashboard :-
 ![SS](https://github.com/user-attachments/assets/ce909eb3-e7c7-419a-b985-9b940c921551)  
 
 SQL RESULTS :-  
